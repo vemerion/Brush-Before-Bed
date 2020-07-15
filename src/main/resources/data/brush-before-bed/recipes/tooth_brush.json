@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "s  ",
+    "ls ",
+    "b s"
+  ],
+  "key":
+  {
+    "s":
+    {
+      "item": "minecraft:stick"
+    },
+    "l":
+    {
+      "item": "minecraft:leather"
+    },
+    "b":
+    {
+      "item": "minecraft:slime_ball"
+    }
+  },
+  "result":
+  {
+    "item": "brush-before-bed:tooth_brush"
+  }
+}
